@@ -1,0 +1,21 @@
+id_cliente,nome,email,cidade,estado,segmento,data_cadastro
+1,Ana Souza,ana.souza@email.com,São Paulo,SP,Premium,2023-01-15
+2,Carlos Lima,carlos.lima@email.com,Rio de Janeiro,RJ,Standard,2023-02-20
+3,Beatriz Costa,beatriz.costa@email.com,Belo Horizonte,MG,Premium,2023-01-30
+4,Diego Alves,diego.alves@email.com,São Paulo,SP,Standard,2023-03-10
+5,Elena Ferreira,elena.ferreira@email.com,Porto Alegre,RS,Premium,2023-04-05
+6,Fábio Gomes,fabio.gomes@email.com,Salvador,BA,Standard,2023-02-14
+7,Gabriela Nunes,gabriela.nunes@email.com,São Paulo,SP,Premium,2023-05-20
+8,Henrique Pinto,henrique.pinto@email.com,Fortaleza,CE,Standard,2023-06-01
+9,Isabela Rocha,isabela.rocha@email.com,Curitiba,PR,Standard,2023-03-25
+10,João Martins,joao.martins@email.com,São Paulo,SP,Premium,2023-07-10
+11,Kleber Santos,kleber.santos@email.com,Goiânia,GO,Standard,2023-08-15
+12,Laura Mendes,laura.mendes@email.com,São Paulo,SP,Premium,2023-09-01
+13,Marcos Oliveira,marcos.oliveira@email.com,Manaus,AM,Standard,2023-10-20
+14,Natália Cruz,natalia.cruz@email.com,São Paulo,SP,Premium,2023-11-05
+15,Otávio Lima,otavio.lima@email.com,Belo Horizonte,MG,Standard,2023-12-01
+16,Paula Vieira,paula.vieira@email.com,Rio de Janeiro,RJ,Standard,2024-01-10
+17,Rafael Barbosa,rafael.barbosa@email.com,São Paulo,SP,Premium,2024-02-15
+18,Sônia Campos,sonia.campos@email.com,Curitiba,PR,Standard,2024-01-20
+19,Tiago Freitas,tiago.freitas@email.com,São Paulo,SP,Premium,2023-05-30
+20,Uma Cardoso,uma.cardoso@email.com,Salvador,BA,Standard,2023-06-18
