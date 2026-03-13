@@ -1,0 +1,23 @@
+id_produto,nome_produto,categoria,preco,estoque,fornecedor_id
+1,Notebook Dell,Eletrônicos,3200.00,15,1
+2,Mouse Logitech,Periféricos,150.00,80,2
+3,Teclado Mecânico,Periféricos,380.00,45,2
+4,Monitor LG 27",Eletrônicos,1800.00,20,1
+5,Headset Gamer,Periféricos,250.00,60,3
+6,SSD 1TB,Armazenamento,420.00,50,4
+7,Webcam HD,Periféricos,320.00,35,3
+8,Notebook Lenovo,Eletrônicos,2900.00,12,1
+9,HD Externo 2TB,Armazenamento,550.00,25,4
+10,Impressora HP,Outros,890.00,18,5
+11,SSD 512GB,Armazenamento,280.00,70,4
+12,Monitor Samsung,Eletrônicos,1500.00,22,1
+13,Teclado Sem Fio,Periféricos,220.00,55,2
+14,Webcam 4K,Periféricos,680.00,20,3
+15,Notebook Acer,Eletrônicos,2600.00,10,1
+16,HD Externo 1TB,Armazenamento,380.00,30,4
+17,Headset Sony,Periféricos,450.00,40,3
+18,Impressora Epson,Outros,1200.00,14,5
+19,Mouse Sem Fio,Periféricos,120.00,90,2
+20,SSD 2TB,Armazenamento,780.00,15,4
+21,Smartwatch Samsung,Eletrônicos,1100.00,0,1
+22,Cabo HDMI,Periféricos,45.00,0,2
